@@ -1,0 +1,13 @@
+# Same packages as pyproject.toml, for people who prefer `pip install -r requirements.txt`
+numpy>=1.26
+pandas>=2.2
+scipy>=1.12
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+scikit-learn>=1.4
+pytest>=8.0
+jupyterlab>=4.1
+ipykernel>=6.29
+nbconvert>=7.16
+ruff>=0.4
